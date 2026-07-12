@@ -50,6 +50,10 @@ apis:
         url: https://www.postfix.org/MILTER_README.html
 
 common:
+  - type: VulnerabilityDisclosure
+    url: security/postfix-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/postfix-domain-security.yml
   - type: Website
     url: https://www.postfix.org
   - type: Documentation
