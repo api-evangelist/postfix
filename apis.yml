@@ -38,7 +38,7 @@ tags:
   - Mail Server
   - MTA
   - SMTP
-  - Open-Source
+  - Open Source
   - Infrastructure
 tags_raw:
   - Email
@@ -47,6 +47,7 @@ tags_raw:
   - SMTP
   - Open Source
   - Infrastructure
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/postfix/refs/heads/main/apis.yml
 created: '2026-05-11'
